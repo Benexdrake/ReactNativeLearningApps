@@ -15,3 +15,6 @@
 - a for open on Android
 - i for open on IOS
 - r for Refresh the App on your Phone
+
+# Navigation:
+- https://reactnavigation.org/
